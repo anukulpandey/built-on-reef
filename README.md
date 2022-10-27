@@ -76,7 +76,12 @@ Apart from full stack dapps, I wrote some scripts, or made some repositories , w
     Serves as a template in my day to day development work.
     
     ![Untitled](Reef%20Projects%20I%20Built%208b6b2f8cbbcd48de8846d1d897d0a64c/Untitled%205.png)
+
+- Curated list of resources for development on REEF
     
+    https://twitter.com/0xanukul/status/1579477128386871298?s=20&t=DrenoPL_zxQ-q2FJVs89jA
+  
+This readme file is also available on web version  -> https://builtonreef.netlify.app/
 
 I hope you liked these. Feel free to reach out to me at → 
 
