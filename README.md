@@ -30,6 +30,17 @@ So here are the projects I made on Reef chain, from the most basic ones to the r
     
     [Reef's Pocket Monsters](https://reefpocketmonster.netlify.app/)
     
+- Decentralised Twitter 🐦
+    
+   So I made this Dapp known as Dwitter, where you can post dweets & all the data will be stored in the blockchain , so a version of our web2 twitter but better with the powers of web3.
+    
+    ![image](https://user-images.githubusercontent.com/62092256/198824050-02ab1758-54a8-4cb9-85f6-6aba4766d937.png)
+    
+    Demo of Dwitter : 
+    https://user-images.githubusercontent.com/62092256/198824062-d42aec4b-c5b1-4695-8867-6f91ba346879.mp4
+
+    [Dwitter](https://dwitter-reef.netlify.app/)
+    
 - Token Sender 🦊
     
     I use reef’s extension a lot while development as well as in the production (ofc) but I had a problem of sending Reef tokens from one account to another, as I have multiple accounts for testing purpose. So what did I do? I built a DAPP specifically for sending Reef tokens from one account to another 😎 & the transaction fee per transaction is just 1.51 Reefs.
