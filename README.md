@@ -58,7 +58,40 @@ So here are the projects I made on Reef chain, from the most basic ones to the r
     ![image](https://user-images.githubusercontent.com/62092256/204230026-28341e61-d43d-46ba-a885-85a19c001185.png)
     
     
-    Project URL : [https://github.com/anukulpandey/MonkeyShare-reef](https://reef-deflationary-launchpad.netlify.app/)
+- Crowd Funding dApp 
+    It's a crowdfunding application where artists or anyone can list their campaign and get funded by people in a given number of days, once done they get the fund.
+    User can launch a campaign & others can pledge , transfer their tokens to the campaign.
+    After the campaign ends, campaign creator can claim the funds if total amount pledged is more than the campaign goal.
+    Otherwise if campaign doesn't reach the goal , users can take back their tokens they sent.
+    Campaign creator can cancel the campaign if it hasn't started.
+    Users can withdraw their funds before event ends as well as after event ends if the goal isn't met.
+    
+    <img width="960" alt="image" src="https://user-images.githubusercontent.com/62092256/209477736-9d4e285a-2e1a-457e-95e1-6b530829229b.png">
+    
+    https://reef-crowd-fund.netlify.app/
+
+- Staking dApp
+    Staking is a way of earning rewards for holding certain cryptocurrencies.So in this dApp you can stake REEF ERC20 tokens & earn a reward for it.
+    User can stake any amount of tokens (upto 100).
+    They can withdraw the funds any time. Also the reward claimed can be withdrawn alone, without withdrawing the staked funds.
+    It is minimised version of Synthetix Staking.ou can google it to learn more about Synthetix Staking reward system.
+    Don't have tokens to stake? We have a free faucet as well.
+    
+    <img width="960" alt="image" src="https://user-images.githubusercontent.com/62092256/209477773-604539df-fed3-4ab5-9ef8-f5a160c89e26.png">
+    
+    https://reef-staking-dapp.netlify.app/
+ 
+- Reef Name Service
+    REEF Name Service [RNS] is a platform where you can get free Readable Name for your long REEF wallet address.
+    You can use this dApp to transfer funds without using long wallet address, just use something like 0xanukul.reef or bandar.reef and that is it.
+    Send funds to this RNS.
+    
+    ![image](https://user-images.githubusercontent.com/62092256/209477799-9764197d-feec-4de2-9e5e-3bbb78b7b1b5.png)
+    
+- Liquidity Pool
+    A liquidity pool is a collection of digital assets accumulated to enable trading on a decentralized exchange (DEX). A DEX is an exchange that doesn't rely on a third party to hold users' funds. Instead, DEX users transact with each other directly.
+    
+    <img width="960" alt="image" src="https://user-images.githubusercontent.com/62092256/209477839-0b60a773-28f8-4c51-bb1d-7f2942cb7970.png">
 
 ---
 
